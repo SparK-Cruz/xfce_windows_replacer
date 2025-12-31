@@ -1,0 +1,11 @@
+#whiskermenu-button {
+  padding-right: 10px;
+}
+.xfce4-panel button image {
+  -gtk-icon-transform: scale(0.54);
+}
+.xfce4-panel #docklike-plugin button image,
+.xfce4-panel #whiskermenu-button image {
+  -gtk-icon-transform: scale(1);
+}
+

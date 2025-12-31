@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Navegador de servidores SSH do Avahi
+NoDisplay=true
+Comment=Procure por servidores SSH com Zeroconf habilitado
+Icon=network-wired
+Exec=/usr/bin/bssh
+Actions=
+Categories=GNOME;Network;
